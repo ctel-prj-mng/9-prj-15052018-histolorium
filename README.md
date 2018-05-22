@@ -2,7 +2,7 @@
 ### Презентация проекта доступна по ссылке на [Prezi](https://prezi.com/p/2m3cokrh_tlp/)  
 
 ### Структура атласа   
-![mind map][Untitled.jpg]  
+![mind map](Untitled.jpg)  
 
 ### Этапы разработки  
-![diagram Gantt][DG.jpg]  
+![diagram Gantt](DG.jpg)  
